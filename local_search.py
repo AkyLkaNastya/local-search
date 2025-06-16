@@ -1,5 +1,5 @@
 import time
-from laba_functions import *
+from LS_functions import *
 
 data = ["ai20a", "ai40a", "ai60a", "ai80a", "ai100a"]
 

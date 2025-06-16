@@ -1,5 +1,5 @@
 import time
-from laba_functions import *
+from LS_functions import *
 
 def iterated_local_search(data_size, distance_matrix, flow_matrix, k=5, max_iterations=100, ls_max_iterations=1000):
     initial_sol = initial_solution(data_size)
